@@ -1,4 +1,4 @@
-public class Visitor {
+public class Visitor { //відвідувач
 
 
         private static int count = 0;

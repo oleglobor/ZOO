@@ -1,4 +1,4 @@
-public class Cleaner implements Worker{
+public class Cleaner implements Worker{ //а це прибиральник
     @Override
     public void work() {
         System.out.println("The Cleaner cleans zoo");

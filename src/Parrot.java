@@ -22,6 +22,6 @@ public class Parrot extends Animal{
     @Override
     public void animalEatDinner() {
         System.out.println("The parrot eat seed with a drug that increases mental ability");
-        System.out.println("This parrot will conquer the world");
+        System.out.println("This parrot will conquer the world"); //
     }
 }

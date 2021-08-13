@@ -1,4 +1,4 @@
-public class Feeder implements Worker{
+public class Feeder implements Worker{ //це годувальник
     @Override
     public void work() {
         System.out.println("The feeder feds animals");

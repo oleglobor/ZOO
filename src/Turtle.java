@@ -1,4 +1,4 @@
-public class Turtle extends Animal{
+public class Turtle extends Animal{ //
     public Turtle(){
         super("Turtle", Type_of_animal.REPTILE);
     }

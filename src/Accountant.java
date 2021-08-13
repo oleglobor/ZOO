@@ -1,4 +1,4 @@
-public class Accountant implements Worker {
+public class Accountant implements Worker { //це бухгалтер
     @Override
     public void work() {
         System.out.println("Accountant`s report : our zoo has been visited " + Visitor.getCount() + " visitors for day. " +
@@ -9,6 +9,6 @@ public class Accountant implements Worker {
 
     @Override
     public void coffetime() {
-        System.out.println("The accountant drinks coffee during the break");
+        System.out.println("The accountant drinks vodka during the break");
     }
 }

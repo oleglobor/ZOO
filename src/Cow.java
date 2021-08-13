@@ -21,6 +21,6 @@ public class Cow extends Animal {
     @Override
     public void animalEatDinner() {
         System.out.println("Oh my God - says Feeder");
-        System.out.println("The cow try to eats meat");
+        System.out.println("The cow try to eats meat"); // хвилинка гумору
     }
 }

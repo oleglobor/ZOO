@@ -1,4 +1,4 @@
-public class Zoo {
+public class Zoo { //зоопарк
 
         private Accountant accountant;
         private Feeder feeder;

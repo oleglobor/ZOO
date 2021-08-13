@@ -1,4 +1,4 @@
-public interface Worker {
+public interface Worker { //інтерфейс
         void work();
         void coffetime();
 }
