@@ -1,4 +1,4 @@
-public abstract class Animal {
+public abstract class Animal { //тваринки
     private String name;
     private Type_of_animal type_of_animal;
 
